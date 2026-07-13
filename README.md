@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @dinzinz
-- 🗣️ Quora: https://www.quora.com/profile/Dinzinz
 - Sololearn: https://www.sololearn.com/profile/24699044
 - 📫 MY CV (thanks to RSSchool): https://github.com/dinzinz/rsschool-cv/blob/gh-pages/cv.md
