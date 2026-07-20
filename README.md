@@ -4,6 +4,7 @@
 <h4>☕️ I'm good at reading in English, my level is Intermediate (B1/B2)</h4>
 <h4>🐍 I learn Python for my own project</h4>
 <h4> 🤖 I use Deepsek </h4>
+<h4> 🎨 I can draw (this profile pic is mine) </h4>
 <h3>Bunch of my social media:</h3>
 <h3><a href="https://www.sololearn.com/profile/24699044">Sololearn Profile</a> | <a href="https://www.sololearn.com/profile/24699044">Carrd</a> | <a href="https://t.me/endooae">Telegram</a></h3>
 <h4> 📩 How to reach me: <a href= "mailto:entsdiana@gmail.com">entsdiana@gmail.com</a> </h4>
